@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unt\\TO Second Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E281B65-F68A-81D8-C69C-1E645417C186}|Assembly-CSharp.csproj|C:\\Unt\\TO Second Project\\assets\\project\\sk\\enemy_sk\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E281B65-F68A-81D8-C69C-1E645417C186}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\sk\\enemy_sk\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E281B65-F68A-81D8-C69C-1E645417C186}|Assembly-CSharp.csproj|C:\\Unt\\TO Second Project\\assets\\project\\sk\\gameclearmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E281B65-F68A-81D8-C69C-1E645417C186}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\sk\\gameclearmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E281B65-F68A-81D8-C69C-1E645417C186}|Assembly-CSharp.csproj|c:\\unt\\to second project\\assets\\project\\sk\\clearsceneui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E281B65-F68A-81D8-C69C-1E645417C186}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\sk\\clearsceneui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E281B65-F68A-81D8-C69C-1E645417C186}|Assembly-CSharp.csproj|C:\\Unt\\TO Second Project\\assets\\project\\sk\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E281B65-F68A-81D8-C69C-1E645417C186}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\sk\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E281B65-F68A-81D8-C69C-1E645417C186}|Assembly-CSharp.csproj|C:\\Unt\\TO Second Project\\assets\\project\\sk\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E281B65-F68A-81D8-C69C-1E645417C186}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\sk\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E281B65-F68A-81D8-C69C-1E645417C186}|Assembly-CSharp.csproj|C:\\Unt\\TO Second Project\\assets\\project\\sk\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E281B65-F68A-81D8-C69C-1E645417C186}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\sk\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E281B65-F68A-81D8-C69C-1E645417C186}|Assembly-CSharp.csproj|C:\\Unt\\TO Second Project\\assets\\project\\sk\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E281B65-F68A-81D8-C69C-1E645417C186}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\sk\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E281B65-F68A-81D8-C69C-1E645417C186}|Assembly-CSharp.csproj|C:\\Unt\\TO Second Project\\assets\\project\\sk\\enemy_sk\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E281B65-F68A-81D8-C69C-1E645417C186}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\sk\\enemy_sk\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E281B65-F68A-81D8-C69C-1E645417C186}|Assembly-CSharp.csproj|C:\\Unt\\TO Second Project\\assets\\project\\sk\\enemy_sk\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E281B65-F68A-81D8-C69C-1E645417C186}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\sk\\enemy_sk\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E281B65-F68A-81D8-C69C-1E645417C186}|Assembly-CSharp.csproj|C:\\Unt\\TO Second Project\\assets\\project\\sk\\playerlookrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E281B65-F68A-81D8-C69C-1E645417C186}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\sk\\playerlookrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E281B65-F68A-81D8-C69C-1E645417C186}|Assembly-CSharp.csproj|C:\\Unt\\TO Second Project\\assets\\project\\sk\\gameoveruimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E281B65-F68A-81D8-C69C-1E645417C186}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\sk\\gameoveruimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E281B65-F68A-81D8-C69C-1E645417C186}|Assembly-CSharp.csproj|C:\\Unt\\TO Second Project\\assets\\project\\sk\\tpscamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E281B65-F68A-81D8-C69C-1E645417C186}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\sk\\tpscamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClearSceneUI.cs",
+              "DocumentMoniker": "C:\\Unt\\TO Second Project\\Assets\\Project\\SK\\ClearSceneUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\SK\\ClearSceneUI.cs",
+              "ToolTip": "C:\\Unt\\TO Second Project\\Assets\\Project\\SK\\ClearSceneUI.cs",
+              "RelativeToolTip": "Assets\\Project\\SK\\ClearSceneUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T21:57:19.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameClearManager.cs",
+              "DocumentMoniker": "C:\\Unt\\TO Second Project\\Assets\\Project\\SK\\GameClearManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\SK\\GameClearManager.cs",
+              "ToolTip": "C:\\Unt\\TO Second Project\\Assets\\Project\\SK\\GameClearManager.cs",
+              "RelativeToolTip": "Assets\\Project\\SK\\GameClearManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T21:52:47.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyManager.cs",
+              "DocumentMoniker": "C:\\Unt\\TO Second Project\\Assets\\Project\\SK\\Enemy_SK\\EnemyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\SK\\Enemy_SK\\EnemyManager.cs",
+              "ToolTip": "C:\\Unt\\TO Second Project\\Assets\\Project\\SK\\Enemy_SK\\EnemyManager.cs",
+              "RelativeToolTip": "Assets\\Project\\SK\\Enemy_SK\\EnemyManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:58:01.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Unt\\TO Second Project\\Assets\\Project\\SK\\Enemy_SK\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\SK\\Enemy_SK\\EnemySpawner.cs",
+              "ToolTip": "C:\\Unt\\TO Second Project\\Assets\\Project\\SK\\Enemy_SK\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Project\\SK\\Enemy_SK\\EnemySpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:59:30.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Unt\\TO Second Project\\Assets\\Project\\SK\\Enemy_SK\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\SK\\Enemy_SK\\Enemy.cs",
+              "ToolTip": "C:\\Unt\\TO Second Project\\Assets\\Project\\SK\\Enemy_SK\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Project\\SK\\Enemy_SK\\Enemy.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAwIYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T18:12:33.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameOverManager.cs",
+              "DocumentMoniker": "C:\\Unt\\TO Second Project\\Assets\\Project\\SK\\GameOverManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\SK\\GameOverManager.cs",
+              "ToolTip": "C:\\Unt\\TO Second Project\\Assets\\Project\\SK\\GameOverManager.cs",
+              "RelativeToolTip": "Assets\\Project\\SK\\GameOverManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:01:20.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "C:\\Unt\\TO Second Project\\Assets\\Project\\SK\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\SK\\PlayerAttack.cs",
+              "ToolTip": "C:\\Unt\\TO Second Project\\Assets\\Project\\SK\\PlayerAttack.cs",
+              "RelativeToolTip": "Assets\\Project\\SK\\PlayerAttack.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwBUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:28:49.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Unt\\TO Second Project\\Assets\\Project\\SK\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\SK\\PlayerHealth.cs",
+              "ToolTip": "C:\\Unt\\TO Second Project\\Assets\\Project\\SK\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Project\\SK\\PlayerHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:33:38.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Unt\\TO Second Project\\Assets\\Project\\SK\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\SK\\Player.cs",
+              "ToolTip": "C:\\Unt\\TO Second Project\\Assets\\Project\\SK\\Player.cs",
+              "RelativeToolTip": "Assets\\Project\\SK\\Player.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:07:23.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameOverUIManager.cs",
+              "DocumentMoniker": "C:\\Unt\\TO Second Project\\Assets\\Project\\SK\\GameOverUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\SK\\GameOverUIManager.cs",
+              "ToolTip": "C:\\Unt\\TO Second Project\\Assets\\Project\\SK\\GameOverUIManager.cs",
+              "RelativeToolTip": "Assets\\Project\\SK\\GameOverUIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:28:09.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerLookRotation.cs",
+              "DocumentMoniker": "C:\\Unt\\TO Second Project\\Assets\\Project\\SK\\PlayerLookRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\SK\\PlayerLookRotation.cs",
+              "ToolTip": "C:\\Unt\\TO Second Project\\Assets\\Project\\SK\\PlayerLookRotation.cs",
+              "RelativeToolTip": "Assets\\Project\\SK\\PlayerLookRotation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:16:51.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TPSCamera.cs",
+              "DocumentMoniker": "C:\\Unt\\TO Second Project\\Assets\\Project\\SK\\TPSCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\SK\\TPSCamera.cs",
+              "ToolTip": "C:\\Unt\\TO Second Project\\Assets\\Project\\SK\\TPSCamera.cs",
+              "RelativeToolTip": "Assets\\Project\\SK\\TPSCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:02:36.078Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

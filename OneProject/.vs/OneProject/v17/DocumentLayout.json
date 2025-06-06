@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unt\\OneProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A98D9F0C-79CF-E765-3E7D-5F34DB538C34}|Assembly-CSharp.csproj|c:\\unt\\oneproject\\assets\\project\\sk\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98D9F0C-79CF-E765-3E7D-5F34DB538C34}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\sk\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98D9F0C-79CF-E765-3E7D-5F34DB538C34}|Assembly-CSharp.csproj|C:\\Unt\\OneProject\\assets\\project\\sk\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98D9F0C-79CF-E765-3E7D-5F34DB538C34}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\sk\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98D9F0C-79CF-E765-3E7D-5F34DB538C34}|Assembly-CSharp.csproj|C:\\Unt\\OneProject\\assets\\project\\sk\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98D9F0C-79CF-E765-3E7D-5F34DB538C34}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\sk\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98D9F0C-79CF-E765-3E7D-5F34DB538C34}|Assembly-CSharp.csproj|C:\\Unt\\OneProject\\assets\\project\\sk\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98D9F0C-79CF-E765-3E7D-5F34DB538C34}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\sk\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98D9F0C-79CF-E765-3E7D-5F34DB538C34}|Assembly-CSharp.csproj|C:\\Unt\\OneProject\\assets\\project\\sk\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98D9F0C-79CF-E765-3E7D-5F34DB538C34}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\sk\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98D9F0C-79CF-E765-3E7D-5F34DB538C34}|Assembly-CSharp.csproj|C:\\Unt\\OneProject\\assets\\project\\sk\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98D9F0C-79CF-E765-3E7D-5F34DB538C34}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\sk\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unt\\OneProject\\Assets\\Project\\Sk\\CircleShooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Project\\Sk\\CircleShooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CircleShooter.cs",
+              "DocumentMoniker": "C:\\Unt\\OneProject\\Assets\\Project\\Sk\\CircleShooter.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Sk\\CircleShooter.cs",
+              "ToolTip": "C:\\Unt\\OneProject\\Assets\\Project\\Sk\\CircleShooter.cs",
+              "RelativeToolTip": "Assets\\Project\\Sk\\CircleShooter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T13:47:31.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Unt\\OneProject\\Assets\\Project\\Sk\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Sk\\PlayerController.cs",
+              "ToolTip": "C:\\Unt\\OneProject\\Assets\\Project\\Sk\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Project\\Sk\\PlayerController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T15:42:24.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Unt\\OneProject\\Assets\\Project\\Sk\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Sk\\GameManager.cs",
+              "ToolTip": "C:\\Unt\\OneProject\\Assets\\Project\\Sk\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Project\\Sk\\GameManager.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAA/wH8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T15:42:21.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Unt\\OneProject\\Assets\\Project\\Sk\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Sk\\EnemySpawner.cs",
+              "ToolTip": "C:\\Unt\\OneProject\\Assets\\Project\\Sk\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Project\\Sk\\EnemySpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T15:42:19.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Unt\\OneProject\\Assets\\Project\\Sk\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Sk\\Enemy.cs",
+              "ToolTip": "C:\\Unt\\OneProject\\Assets\\Project\\Sk\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Project\\Sk\\Enemy.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T15:42:18.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Unt\\OneProject\\Assets\\Project\\Sk\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Sk\\CameraFollow.cs",
+              "ToolTip": "C:\\Unt\\OneProject\\Assets\\Project\\Sk\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Project\\Sk\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T15:42:16.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Unt\\OneProject\\Assets\\Project\\Sk\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Sk\\Bullet.cs",
+              "ToolTip": "C:\\Unt\\OneProject\\Assets\\Project\\Sk\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Project\\Sk\\Bullet.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T15:42:04.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

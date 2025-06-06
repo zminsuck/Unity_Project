@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unt\\BITFIts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4663BC6D-DF2B-C3EB-95BE-300B650D4B3C}|Assembly-CSharp.csproj|c:\\unt\\bitfits\\assets\\vrproject\\sk\\musicsyncspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4663BC6D-DF2B-C3EB-95BE-300B650D4B3C}|Assembly-CSharp.csproj|solutionrelative:assets\\vrproject\\sk\\musicsyncspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4663BC6D-DF2B-C3EB-95BE-300B650D4B3C}|Assembly-CSharp.csproj|c:\\unt\\bitfits\\assets\\vrproject\\sk\\ui_sk\\resultuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4663BC6D-DF2B-C3EB-95BE-300B650D4B3C}|Assembly-CSharp.csproj|solutionrelative:assets\\vrproject\\sk\\ui_sk\\resultuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4663BC6D-DF2B-C3EB-95BE-300B650D4B3C}|Assembly-CSharp.csproj|c:\\unt\\bitfits\\assets\\vrproject\\sk\\ui_sk\\songselectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4663BC6D-DF2B-C3EB-95BE-300B650D4B3C}|Assembly-CSharp.csproj|solutionrelative:assets\\vrproject\\sk\\ui_sk\\songselectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4663BC6D-DF2B-C3EB-95BE-300B650D4B3C}|Assembly-CSharp.csproj|C:\\Unt\\BITFIts\\assets\\vrproject\\sk\\ui_sk\\startbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4663BC6D-DF2B-C3EB-95BE-300B650D4B3C}|Assembly-CSharp.csproj|solutionrelative:assets\\vrproject\\sk\\ui_sk\\startbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unt\\BITFIts\\Assets\\VRProject\\SK\\LeftHandShooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\VRProject\\SK\\LeftHandShooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unt\\BITFIts\\Assets\\VRProject\\SK\\ExplodePieces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\VRProject\\SK\\ExplodePieces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unt\\BITFIts\\Assets\\VRProject\\SK\\RightHandShooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\VRProject\\SK\\RightHandShooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unt\\BITFIts\\Assets\\VRProject\\SK\\UI_SK\\SongSelectButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\VRProject\\SK\\UI_SK\\SongSelectButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusicSyncSpawner.cs",
+              "DocumentMoniker": "C:\\Unt\\BITFIts\\Assets\\VRProject\\SK\\MusicSyncSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\VRProject\\SK\\MusicSyncSpawner.cs",
+              "ToolTip": "C:\\Unt\\BITFIts\\Assets\\VRProject\\SK\\MusicSyncSpawner.cs",
+              "RelativeToolTip": "Assets\\VRProject\\SK\\MusicSyncSpawner.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T20:36:22.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResultUIManager.cs",
+              "DocumentMoniker": "C:\\Unt\\BITFIts\\Assets\\VRProject\\SK\\UI_SK\\ResultUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\VRProject\\SK\\UI_SK\\ResultUIManager.cs",
+              "ToolTip": "C:\\Unt\\BITFIts\\Assets\\VRProject\\SK\\UI_SK\\ResultUIManager.cs",
+              "RelativeToolTip": "Assets\\VRProject\\SK\\UI_SK\\ResultUIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T20:35:07.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SongSelectButton.cs",
+              "DocumentMoniker": "C:\\Unt\\BITFIts\\Assets\\VRProject\\SK\\UI_SK\\SongSelectButton.cs",
+              "RelativeDocumentMoniker": "Assets\\VRProject\\SK\\UI_SK\\SongSelectButton.cs",
+              "ToolTip": "C:\\Unt\\BITFIts\\Assets\\VRProject\\SK\\UI_SK\\SongSelectButton.cs",
+              "RelativeToolTip": "Assets\\VRProject\\SK\\UI_SK\\SongSelectButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:16:08.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartButton.cs",
+              "DocumentMoniker": "C:\\Unt\\BITFIts\\Assets\\VRProject\\SK\\UI_SK\\StartButton.cs",
+              "RelativeDocumentMoniker": "Assets\\VRProject\\SK\\UI_SK\\StartButton.cs",
+              "ToolTip": "C:\\Unt\\BITFIts\\Assets\\VRProject\\SK\\UI_SK\\StartButton.cs",
+              "RelativeToolTip": "Assets\\VRProject\\SK\\UI_SK\\StartButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:15:59.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SongSelectionManager.cs",
+              "DocumentMoniker": "C:\\Unt\\BITFIts\\Assets\\VRProject\\SK\\UI_SK\\SongSelectionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\VRProject\\SK\\UI_SK\\SongSelectionManager.cs",
+              "ToolTip": "C:\\Unt\\BITFIts\\Assets\\VRProject\\SK\\UI_SK\\SongSelectionManager.cs",
+              "RelativeToolTip": "Assets\\VRProject\\SK\\UI_SK\\SongSelectionManager.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:12:47.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RightHandShooter.cs",
+              "DocumentMoniker": "C:\\Unt\\BITFIts\\Assets\\VRProject\\SK\\RightHandShooter.cs",
+              "RelativeDocumentMoniker": "Assets\\VRProject\\SK\\RightHandShooter.cs",
+              "ToolTip": "C:\\Unt\\BITFIts\\Assets\\VRProject\\SK\\RightHandShooter.cs",
+              "RelativeToolTip": "Assets\\VRProject\\SK\\RightHandShooter.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:41:36.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExplodePieces.cs",
+              "DocumentMoniker": "C:\\Unt\\BITFIts\\Assets\\VRProject\\SK\\ExplodePieces.cs",
+              "RelativeDocumentMoniker": "Assets\\VRProject\\SK\\ExplodePieces.cs",
+              "ToolTip": "C:\\Unt\\BITFIts\\Assets\\VRProject\\SK\\ExplodePieces.cs",
+              "RelativeToolTip": "Assets\\VRProject\\SK\\ExplodePieces.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:22:39.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LeftHandShooter.cs",
+              "DocumentMoniker": "C:\\Unt\\BITFIts\\Assets\\VRProject\\SK\\LeftHandShooter.cs",
+              "RelativeDocumentMoniker": "Assets\\VRProject\\SK\\LeftHandShooter.cs",
+              "ToolTip": "C:\\Unt\\BITFIts\\Assets\\VRProject\\SK\\LeftHandShooter.cs",
+              "RelativeToolTip": "Assets\\VRProject\\SK\\LeftHandShooter.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:41:46.838Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
