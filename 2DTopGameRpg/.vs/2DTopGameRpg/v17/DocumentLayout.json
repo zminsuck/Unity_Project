@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Unt\\2DTopGameRpg\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Unt\\Untiy_Project\\2DTopGameRpg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unt\\Untiy_Project\\2DTopGameRpg\\Library\\PackageCache\\com.unity.2d.tilemap@bcd28ed819cb\\Editor\\GridEditorUtility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.2d.tilemap@bcd28ed819cb\\Editor\\GridEditorUtility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B199E4-BBDA-3991-E380-215EC7634AEC}|Assembly-CSharp.csproj|c:\\unt\\untiy_project\\2dtopgamerpg\\assets\\projectfail\\sk\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B199E4-BBDA-3991-E380-215EC7634AEC}|Assembly-CSharp.csproj|solutionrelative:assets\\projectfail\\sk\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GridEditorUtility.cs",
+              "DocumentMoniker": "C:\\Unt\\Untiy_Project\\2DTopGameRpg\\Library\\PackageCache\\com.unity.2d.tilemap@bcd28ed819cb\\Editor\\GridEditorUtility.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.2d.tilemap@bcd28ed819cb\\Editor\\GridEditorUtility.cs",
+              "ToolTip": "C:\\Unt\\Untiy_Project\\2DTopGameRpg\\Library\\PackageCache\\com.unity.2d.tilemap@bcd28ed819cb\\Editor\\GridEditorUtility.cs*",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.2d.tilemap@bcd28ed819cb\\Editor\\GridEditorUtility.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwDEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:18:35.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Unt\\Untiy_Project\\2DTopGameRpg\\Assets\\ProjectFail\\SK\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\ProjectFail\\SK\\CameraFollow.cs",
+              "ToolTip": "C:\\Unt\\Untiy_Project\\2DTopGameRpg\\Assets\\ProjectFail\\SK\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\ProjectFail\\SK\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:11:02.308Z",
+              "EditorCaption": ""
             }
           ]
         }
