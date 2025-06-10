@@ -97,4 +97,25 @@ public class PlayerController : MonoBehaviour
             enemy.GetComponent<Enemy>()?.TakeDamage(attackDamage);
         }
     }
+
+    public void TakeDamage(int damage)
+    {
+        // 체력 감소
+        Debug.Log("플레이어가 " + damage + "의 데미지를 받음");
+
+        // TODO: 체력 감소 로직 (예: currentHealth -= damage)
+
+        // 히트 애니메이션 재생
+        animator.SetTrigger("Hit");
+
+        // TODO: 체력 0 이하 시 사망 처리
+    }
+    
+    // Gizmos로 시각화
+    private void OnDrawGizmosSelected()
+    {
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(transform.position, attackRange);
+    }
+
 }
